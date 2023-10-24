@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,16 +43,23 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       10 mins             ██████████░░░░░░░░░░░░░░░   41.31 % 
+Java                     10 mins             ██████████░░░░░░░░░░░░░░░   39.70 % 
+Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 20 mins             ████████████████████░░░░░   81.11 % 
+VS Code                  4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Schedule                 10 mins             ██████████░░░░░░░░░░░░░░░   41.41 % 
+waf_pool_management      10 mins             ██████████░░░░░░░░░░░░░░░   39.70 % 
+soybean-admin            4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,7 +73,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 23/10/2023 13:20:56 UTC
+ Last Updated on 24/10/2023 12:49:09 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
