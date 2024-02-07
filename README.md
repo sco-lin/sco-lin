@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -8,11 +8,11 @@
 
 > 📦 10.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -43,18 +43,18 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 hrs 53 mins      █████████████████████░░░░   85.96 % 
-XML                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Java                     17 hrs 21 mins      █████████████████████░░░░   84.12 % 
+XML                      2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-IntelliJ                 15 hrs              █████████████████████████   100.00 % 
+IntelliJ                 20 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sky-take-out             15 hrs              █████████████████████████   100.00 % 
+sky-take-out             20 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs              █████████████████████████   100.00 % 
+Windows                  20 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -68,7 +68,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 06/02/2024 12:45:24 UTC
+ Last Updated on 07/02/2024 12:44:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
