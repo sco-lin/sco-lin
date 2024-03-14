@@ -43,16 +43,19 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 10 mins        ███████████████████████░░   91.36 % 
+Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+aurora                   1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,7 +69,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 13/03/2024 12:46:16 UTC
+ Last Updated on 14/03/2024 12:46:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
