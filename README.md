@@ -8,8 +8,6 @@
 
 > 📦 10.8 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -43,16 +41,23 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 47 mins        ██████████████████░░░░░░░   72.73 % 
+Gradle                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Groovy                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Kotlin                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+auto-language            1 hr 18 mins        █████████████░░░░░░░░░░░░   53.10 % 
+RuoYi                    1 hr 6 mins         ███████████░░░░░░░░░░░░░░   44.91 % 
+smart-input              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,7 +71,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 25/05/2024 12:47:14 UTC
+ Last Updated on 26/05/2024 12:46:35 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
