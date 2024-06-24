@@ -43,16 +43,22 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      25 mins             ████████░░░░░░░░░░░░░░░░░   32.19 % 
+YAML                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Spring Boot Imports      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Java Properties          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Docker                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 20 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NFTurbo_Server           1 hr 1 min          ███████████████████░░░░░░   76.16 % 
+xxl-job                  14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+aurora                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -66,7 +72,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 23/06/2024 12:48:12 UTC
+ Last Updated on 24/06/2024 12:51:39 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
