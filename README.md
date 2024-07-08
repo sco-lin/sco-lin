@@ -1,14 +1,12 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.8 kB Used in GitHub's Storage 
- > 
-> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,19 +41,19 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 14 mins       ███████████████████░░░░░░   75.58 % 
-YAML                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Java                     3 hrs 41 mins       █████████████████████░░░░   82.51 % 
+YAML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 57 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NFTurbo_Server           2 hrs 57 mins       █████████████████████████   100.00 % 
+NFTurbo_Server           4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -69,7 +67,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/07/2024 12:48:26 UTC
+ Last Updated on 08/07/2024 12:50:38 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
