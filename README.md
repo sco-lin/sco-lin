@@ -43,17 +43,16 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 26 mins        ████████████████████████░   96.22 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NFTurbo_Server           1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -67,7 +66,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 14/07/2024 13:02:24 UTC
+ Last Updated on 15/07/2024 12:53:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
