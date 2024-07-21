@@ -8,6 +8,8 @@
 
 > 📦 10.8 kB Used in GitHub's Storage 
  > 
+> 🏆 8 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -41,16 +43,20 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 36 mins        █████████████████████████   98.65 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+NFTurbo_Server           1 hr 36 mins        █████████████████████████   98.63 % 
+aurora                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -64,7 +70,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 20/07/2024 12:49:02 UTC
+ Last Updated on 21/07/2024 12:49:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
