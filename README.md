@@ -1,7 +1,5 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -66,7 +64,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 07/09/2024 12:51:30 UTC
+ Last Updated on 08/09/2024 12:52:18 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
