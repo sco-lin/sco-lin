@@ -41,7 +41,8 @@ Sunday                   53 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 26 mins        █████████████████████████   100.00 % 
+Java                     1 hr 26 mins        █████████████████████████   99.87 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
 IntelliJ IDEA            1 hr 26 mins        █████████████████████████   100.00 % 
@@ -65,7 +66,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 26/09/2024 12:59:17 UTC
+ Last Updated on 27/09/2024 12:58:05 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
