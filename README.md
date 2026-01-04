@@ -1,5 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -14,6 +16,45 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                39 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+🌆 Daytime                97 commits          ████████████░░░░░░░░░░░░░   48.50 % 
+🌃 Evening                58 commits          ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Tuesday                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Wednesday                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Thursday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Friday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 58 commits          ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Sunday                   53 commits          ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -25,7 +66,7 @@ Vue                      1 repo              ██████░░░░░�
 
 
 
- Last Updated on 03/01/2026 13:05:26 UTC
+ Last Updated on 04/01/2026 13:06:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **0Cherish/0Cherish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
